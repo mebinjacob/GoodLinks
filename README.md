@@ -10,7 +10,7 @@ WEB Stuff
 =========
 https://github.com/alex/what-happens-when
 
-ML Stuff*
+ML Stuff
 =======
 https://www.fast.ai/2019/07/08/fastai-nlp/
 https://christophm.github.io/interpretable-ml-book/
