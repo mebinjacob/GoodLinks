@@ -3,13 +3,13 @@
 
 Gernic SE stuff
 ---------------
-  *https://github.com/dwmkerr/hacker-laws
+    * https://github.com/dwmkerr/hacker-laws
 
 WEB Stuff
 ---------
-https://github.com/alex/what-happens-when
+    * https://github.com/alex/what-happens-when
 
 ML Stuff
 -------
-  *https://www.fast.ai/2019/07/08/fastai-nlp/
-  *https://christophm.github.io/interpretable-ml-book/
+    * https://www.fast.ai/2019/07/08/fastai-nlp/
+    * https://christophm.github.io/interpretable-ml-book/
